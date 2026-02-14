@@ -9,5 +9,7 @@
 }
 
 body {
-    background-image: url(Assets/Shack_ext_soir.webp);
+    background-color: #061c03;
+    color:#AB5013;
+    font-family: 'Sigmar One', sans-serif;
 }
