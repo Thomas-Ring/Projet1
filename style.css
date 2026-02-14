@@ -1,1 +1,13 @@
-h1 {font-family: 'Sigmar One', sans-serif;}
+#enTete {
+    font-family: 'Sigmar One', sans-serif;
+    color: #AB5013;
+}
+
+#slogan {
+    font-family: 'Sigmar One', sans-serif;
+    font-size: 20pt;
+}
+
+body {
+    background-image: url(Assets/Shack_ext_soir.webp);
+}
