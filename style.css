@@ -26,3 +26,20 @@ body {
     height:100%;
     object-fit: cover;
 }
+
+@keyframes Bill_statue {
+    from {transform:rotate(80deg);
+          background-color: #AB5013;
+          opacity: 70%;
+        }
+    to {transform:skewx(-50deg);
+        background-color: #ff66cc;
+        opacity: 20%
+        }
+}
+
+#Bill_statue {
+    width: 40%;
+    animation: Bill_statue 8s;
+    background-color: #ff66cc;
+}
