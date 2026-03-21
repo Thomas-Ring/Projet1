@@ -1,6 +1,9 @@
 #enTete {
     font-family: 'Joti One', serif;
-    letter-spacing: 1px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 40px 0 20px;
     color: #AB5013;
 }
 
@@ -37,7 +40,7 @@ nav ul {
 
 nav a {
     color: #f5e6d3;
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'IM Fell English', serif; 
 }
 
