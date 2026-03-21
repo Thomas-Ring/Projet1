@@ -32,6 +32,42 @@ body {
     transform: scale(1.1);
 }
 
+.superposer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    color: white;
+    background: transparent;
+    opacity: 0; 
+    transition: opacity 0.3s ease;
+}
+
+
+.item {position: relative;
+}
+
+.item img {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.item:hover img {
+    transform: scale(1.1);
+}
+
+.item:hover .superposer {
+    opacity: 1;
+}
+
 @keyframes Bill_statue {
     from {transform:rotate(80deg);
           background-color: #AB5013;
