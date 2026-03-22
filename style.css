@@ -111,7 +111,6 @@ nav a:hover {
          background-color: #ff66cc;}
   100%  { transform: rotate(3deg)scale(0.9);
          background-color: #cccc66;}
-
 }
 
 #Bill_statue {
@@ -123,4 +122,13 @@ nav a:hover {
     width:100%;
     height:100%;
     opacity: 80%;
+}
+
+.Cartel {
+    border-color: #AB5013;
+    border-style: groove;
+    border-radius: 10%;
+    border-width: 1em;
+
+    padding: 0.5em;
 }
