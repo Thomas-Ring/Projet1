@@ -1,4 +1,5 @@
 <!-- Projet 1 du cours IFT1005, réalisé par Thomas Ring (20162157) et Ann-Sophie Therrien (20344011). -->
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -6,10 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oeuvres</title>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Joti+One&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Joti+One&family=Lora">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -29,6 +27,9 @@
 
         <section>
             <h2> Statue de Bill </h2>
+            <!-- Le but est que l'animation de l'image de la statue de Bill donne un effet de "glitch", puisque ces effets accompagnent souvent le personnage.
+                 J'ai créé un div pour l'image de la statue afin de pouvoir tinter l'image de différentes couleurs pour cette animation:
+                 le div a la couleur que je veux, et l'image a une opacité de moins de 100% pour voir la couleur, ce qui donne l'effet d'une tinte. -->
             <div id="Bill_statue">
                 <img src="Assets/Bill_statue.webp">
             </div>
@@ -111,7 +112,7 @@
         
     </main>
 
-    <footer id="footer-oeuvres">
+    <footer>
         Copyright &copy; Thomas Ring & Ann-Sophie Therrien
     </footer>
     
