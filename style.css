@@ -21,6 +21,7 @@ body {
     color:#AB5013;
     font-family: 'Lora', sans-serif;
     font-weight: bold;
+    
 }
 
 nav {
@@ -134,3 +135,9 @@ nav a:hover {
 
     padding: 0.5em;
 }
+
+footer {padding-top: 10px;
+        border-top: 1px solid #AB5013;
+}
+
+#footer-oeuvres {margin-top: 10px}
