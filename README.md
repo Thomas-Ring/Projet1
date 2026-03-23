@@ -6,3 +6,4 @@ Elles ont été trouvées sur le Wiki de Gravity Falls ou sur Pinterest.
 L'utilisation de ces images tombe sous l'utilisation équitable tel que décrit dans la Loi sur le droit d'auteur du Canada.
 
 Lien vers la vidéo de présentation: https://youtu.be/PL8sVb9hC9E
+Source des images: Pinterest (https://ca.pinterest.com/) et le wiki de Gravity Falls (https://gravityfalls.fandom.com/wiki/Gravity_Falls_Wiki)
